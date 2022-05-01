@@ -15,7 +15,7 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['AnthonyMichaelTDM/CLIA', 'AnthonyMichaelTDM/Java-Image-Manipulation-Program', ]
+        statsRepo: ['AnthonyMichaelTDM/basic-computer-games', 'AnthonyMichaelTDM/CLIA', 'AnthonyMichaelTDM/Java-Image-Manipulation-Program', ]
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
