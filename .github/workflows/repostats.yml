@@ -23,7 +23,7 @@ jobs:
       max-parallel: 1
     steps:
       - name: run-ghrs
-        uses: jgehrcke/github-repo-stats
+        uses: AnthonyMichaelTDM/github-repo-stats@1.4.0
         with:
           # Repo to fetch stats for and to generate the report for.
           repository: ${{ matrix.statsRepo }}
