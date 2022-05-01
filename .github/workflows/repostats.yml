@@ -32,4 +32,4 @@ jobs:
           ghtoken: ${{ secrets.ghrs_github_api_token }}
           # Data branch: Branch to push data to (in the data repo).
           databranch: gh-pages
-          ghpagespredix: https://anthonymichaeltdm.github.io/my-repo-stats
+          ghpagesprefix: https://anthonymichaeltdm.github.io/my-repo-stats
