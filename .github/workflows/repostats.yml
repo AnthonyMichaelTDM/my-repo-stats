@@ -15,7 +15,7 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['https://github.com/AnthonyMichaelTDM/CLIA', 'AnthonyMichaelTDM/Java-Image-Manipulation-Program', ]
+        statsRepo: ['AnthonyMichaelTDM/CLIA', 'AnthonyMichaelTDM/Java-Image-Manipulation-Program', ]
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
@@ -23,7 +23,7 @@ jobs:
       max-parallel: 1
     steps:
       - name: run-ghrs
-        uses: jgehrcke/github-repo-stats@v1.3.0
+        uses: jgehrcke/github-repo-stats
         with:
           # Repo to fetch stats for and to generate the report for.
           repository: ${{ matrix.statsRepo }}
