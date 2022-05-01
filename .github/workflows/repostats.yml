@@ -15,7 +15,7 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['AnthonyMichaelTDM/CLIA', 'AnthonyMichaelTDM/Java-Image-Manipulation-Program', ]
+        statsRepo: ['https://github.com/AnthonyMichaelTDM/CLIA', 'AnthonyMichaelTDM/Java-Image-Manipulation-Program', ]
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
@@ -31,5 +31,5 @@ jobs:
           # can push to the data repository.
           ghtoken: ${{ secrets.ghrs_github_api_token }}
           # Data branch: Branch to push data to (in the data repo).
-          databranch: data
+          databranch: gh-pages
           ghpagespredix: https://anthonymichaeltdm.github.io/my-repo-stats
