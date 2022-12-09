@@ -1,5 +1,5 @@
 % Statistics for AnthonyMichaelTDM/arcob-leftwm-scripts
-% Generated for [AnthonyMichaelTDM/arcob-leftwm-scripts](https://github.com/AnthonyMichaelTDM/arcob-leftwm-scripts) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-12-08 23:21 UTC.
+% Generated for [AnthonyMichaelTDM/arcob-leftwm-scripts](https://github.com/AnthonyMichaelTDM/arcob-leftwm-scripts) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-12-09 23:19 UTC.
 
 
 ## Views
@@ -82,7 +82,7 @@ Top 15 referrers: 01: `github.com`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/blob/master/scripts/000-configs`, 03: `/tree/master/scripts`, 04: `/blob/master/scripts/160-laptop`, 05: `/blob/master/scripts/120-web-browsing`, 06: `/blob/master/scripts/110-development-software`, 07: `/blob/master/setup-git-v5.sh`, 08: `/blob/master/README.md`, 09: `/graphs/traffic`, 10: `/blob/master/git-v1.sh`, 11: `/search`, 12: `/edit/master/scripts/000-configs`, 13: `/new/master/scripts`, 14: `/blob/master/scripts/140-fun-scripts`, 15: `/commits`
+Top 15 paths: 01: `/`, 02: `/blob/master/scripts/000-configs`, 03: `/tree/master/scripts`, 04: `/blob/master/scripts/160-laptop`, 05: `/blob/master/scripts/120-web-browsing`, 06: `/blob/master/scripts/110-development-software`, 07: `/blob/master/setup-git-v5.sh`, 08: `/new/master/scripts`, 09: `/blob/master/scripts/190-other-school-and-fun`, 10: `/graphs/traffic`, 11: `/blob/master/scripts/130-media-editing`, 12: `/blob/master/git-v1.sh`, 13: `/edit/master/scripts/190-other-school-and-fun`, 14: `/edit/master/scripts/110-development-software`, 15: `/commits/master`
 
 
 <script type="text/javascript">
