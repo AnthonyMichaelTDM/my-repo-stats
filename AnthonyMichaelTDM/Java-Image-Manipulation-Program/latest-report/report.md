@@ -1,5 +1,5 @@
 % Statistics for AnthonyMichaelTDM/Java-Image-Manipulation-Program
-% Generated for [AnthonyMichaelTDM/Java-Image-Manipulation-Program](https://github.com/AnthonyMichaelTDM/Java-Image-Manipulation-Program) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-31 23:14 UTC.
+% Generated for [AnthonyMichaelTDM/Java-Image-Manipulation-Program](https://github.com/AnthonyMichaelTDM/Java-Image-Manipulation-Program) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-08-01 23:15 UTC.
 
 
 ## Views
@@ -84,7 +84,7 @@ Top 15 referrers: 01: `sites.google.com`, 02: `github.com`, 03: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/releases/tag/v1.2.2`, 02: `/`, 03: `/tree/master/src/main`, 04: `/commit/30bc3cd1a08736bf77c9ca0215fffc020644e3e9`, 05: `/blob/master/src/main/java/classes/Picture.java`, 06: `/tree/master/src/main/java/classes`, 07: `/blob/master/src/main/java/classes/Main.java`, 08: `/commit/d6803c6aca054e86eeb0ce322f053fe60cbfcfc0`, 09: `/tree/master/src/main/java`, 10: `/blob/master/src/main/java/classes/SimplePicture.java`, 11: `/blob/master/gradlew`, 12: `/blob/master/Wiki-Images/BsSfa1-trim-50-180.jpg`, 13: `/find/master`, 14: `/blob/master/src/main/java/classes/PictureExplorer.java`, 15: `/graphs/traffic`
+Top 15 paths: 01: `/releases/tag/v1.2.2`, 02: `/`, 03: `/tree/master/src/main`, 04: `/commit/30bc3cd1a08736bf77c9ca0215fffc020644e3e9`, 05: `/blob/master/src/main/java/classes/Picture.java`, 06: `/tree/master/src/main/java/classes`, 07: `/blob/master/src/main/java/classes/Main.java`, 08: `/commit/d6803c6aca054e86eeb0ce322f053fe60cbfcfc0`, 09: `/tree/master/src/main/java`, 10: `/tree/v1.2.2`, 11: `/blob/master/src/main/java/classes/PictureTester.java`, 12: `/releases`, 13: `/blob/master/src/main/java/classes/PictureExplorer.java`, 14: `/blob/master/src/main/java/classes/Pixel.java`, 15: `/blob/master/src/main/java/classes/ColorChooser.java`
 
 
 <script type="text/javascript">
